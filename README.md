@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorbrt&color=red" alt="Profile views" /> </p>
+
 <img align="center" src="https://media.giphy.com/media/oRa4HpVTJ2VqUaQH6f/giphy.gif" width=60% alt="GIF Hello World">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="Gif Hello" width="30px"> I'm Igor Almeida</h1>
 
